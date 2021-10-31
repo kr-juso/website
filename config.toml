@@ -1,0 +1,12 @@
+baseURL = 'https://juso.dev/'
+languageCode = 'ko-kr'
+title = 'Juso'
+
+theme="book"
+
+googleAnalytics = "G-LG37WEQMB4"
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'dark'
