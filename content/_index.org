@@ -1,12 +1,11 @@
-#+TITLE: 대한민국 법정동 조회 API
+#+TITLE: 시군구 API
 #+AUTHOR: YeongCheon Kim
 #+DATE: <2021-10-26 화>
 #+DRAFT: false
 
 * 소개
-대한민국 법정동 목록을 조회하는 API입니다.
 
-[[https://www.code.go.kr/stdcode/regCodeL.do][행정표준관리시스템]]에서 제공하는 데이터를 기반으로 법정동 목록을 제공하는 API입니다.
+[[https://www.code.go.kr/stdcode/regCodeL.do][행정표준관리시스템]]에서 제공하는 데이터를 기반으로 시군구(법정동) 목록을 조회하는 API입니다.
 
 http와 gRPC를 지원합니다.
 

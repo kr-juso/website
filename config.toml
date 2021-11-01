@@ -1,6 +1,6 @@
 baseURL = 'https://juso.dev/'
 languageCode = 'ko-kr'
-title = 'Juso'
+title = '주소'
 
 theme="book"
 
