@@ -9,4 +9,4 @@
 
 http와 gRPC를 지원합니다.
 
-버그 제보나 데이터 업데이트 문의는 [[mailto:kyc1682@gmail.com][kyc1682@gmail.com]]으로 부탁드립니다.
+버그 제보나 데이터 업데이트 문의는 [[https://github.com/kr-juso/api/issues][이 곳]]에 남겨주세요.
