@@ -1,7 +1,8 @@
-#+TITLE: 사용법
+#+TITLE: 대한민국 법정동 코드 조회 API
 #+AUTHOR: YeongCheon Kim
+#+DATE: 2022-01-15
 
-* 사용법
+* 대한민국 법정동 코드 조회 API
 
 법정동 목록 API는 GCP의 Cloud Run 환경 위에서 동작합니다. 기본적으로 gRPC 서버와 ESPv2 기반 프록시 서버가 함께 동작합니다. API 주소는 [[https://grpc-proxy-server-mkvo6j4wsq-du.a.run.app][grpc-proxy-server-mkvo6j4wsq-du.a.run.app]] 입니다. 모든 동작은 [[https://github.com/kr-juso/protobuf/tree/main/juso][proto 프로젝트]]에 정의된 내용에 기반하여 동작합니다.
 
