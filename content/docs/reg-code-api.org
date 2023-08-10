@@ -45,7 +45,7 @@ https://grpc-proxy-server-mkvo6j4wsq-du.a.run.app/v1/regcodes?regcode_pattern=11
 **** 서울특별시 소속의 모든 구 반환
 
 #+BEGIN_SRC
-https://grpc-proxy-server-mkvo6j4wsq-du.a.run.app/v1/regcodes?regcode_pattern=11*000000
+https://grpc-proxy-server-mkvo6j4wsq-du.a.run.app/v1/regcodes?regcode_pattern=11*00000
 #+END_SRC
 
 **** 서울특별시 종로구를 포함한 종로구의 모든 동 반환
