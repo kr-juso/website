@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:kr-juso/kr-juso.github.io.git
